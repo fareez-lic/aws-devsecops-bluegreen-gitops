@@ -1,0 +1,12 @@
+{
+  "name": "bluegreen-demo-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js API for blue-green DevSecOps deployment demo",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
